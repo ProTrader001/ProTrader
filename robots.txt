@@ -1,0 +1,13 @@
+# robots.txt — protrade.github.io/journal
+# Google, Bing va boshqa qidiruv tizimlari uchun
+
+# Barcha botlarga ruxsat
+User-agent: *
+Allow: /journal/
+
+# Texnik fayllarni indekslash shart emas
+Disallow: /journal/*.json$
+Disallow: /journal/*.xml$
+
+# Sitemap manzili (Google Search Console uchun muhim)
+Sitemap: https://protrade.github.io/journal/sitemap.xml
