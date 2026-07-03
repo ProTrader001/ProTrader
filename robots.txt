@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miraziz09.github.io/trading-journal-/sitemap.xml
